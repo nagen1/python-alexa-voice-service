@@ -28,7 +28,7 @@ Extract and copy the ffmpeg folder to the project's folder. Rename to ffmpeg, so
 
 Follow the directions from Amazon on how to get your Client ID, Client Secret, and ProductID (parts of Chapter 3 and Chapter 6).
 
-[https://github.com/amzn/alexa-avs-raspberry-pi](https://github.com/amzn/alexa-avs-raspberry-pi)
+[https://github.com/alexa/alexa-avs-sample-app/wiki/Raspberry-Pi](https://github.com/alexa/alexa-avs-sample-app/wiki/Raspberry-Pi)
 
 Rename config_example.dict to config.dict. Then open the file and update the Client ID, Client Secret, and ProductID values to your own values
 
